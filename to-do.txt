@@ -1,0 +1,3 @@
+Programa coge pdf con OCR o TSAC
+Tenemos json que lee programa y coge coordenadas y lee el texto 
+Extraer a txt
